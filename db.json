@@ -1,14 +1,6 @@
 {
-    "Activas": [{
+    "test": [{
         "date": "20170523065900",
-        "title": "Otras incidencias",
-        "link": "/stw5/gedged/public/html/es/29/39/128639.html",
-        "localization": []
-    }],
-    "Resueltas": [{
-        "date": "20180207150900",
-        "title": "Nómina 15: vuelve a funcionar con normalidad",
-        "link": "/stw5/gedged/public/html/es/29/86/138286.html",
         "localization": []
     }]
 }
